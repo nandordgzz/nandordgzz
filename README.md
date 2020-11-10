@@ -7,6 +7,8 @@
 
 Hi, I'm Nando I'm a Fullstack developer but my passion is the front end
 
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+
 
 #### 🌱 Things I am currently working on: 
 - Development of websites with different CMS 
@@ -34,5 +36,3 @@ Hi, I'm Nando I'm a Fullstack developer but my passion is the front end
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
 </p>
-
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
