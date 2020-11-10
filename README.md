@@ -14,9 +14,9 @@ Hi, I'm Nando I'm a Fullstack developer but my passion is the front end
 - Own project 🚀 
 
 #### :muscle: Things I am challenging myself with:
--Code every day for at least 4 hours
--Mastering different JavaScript frameworks at expert level
--Become a Wordpress Expert Theme and Plugin Developer
+-Code every day for at least 4 hours<br>
+-Mastering different JavaScript frameworks at expert level<br>
+-Become a Wordpress Expert Theme and Plugin Developer<br>
 
 #### :computer: Programming languages and tools: 
 <p>
