@@ -8,6 +8,7 @@
 Hi, I'm Nando I'm a Fullstack developer but my passion is the front end
 
 <p align="right" height="auto">
+	<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 	```javascript
 	const thai = {
 	  pronouns: "she" | "her",
