@@ -37,4 +37,4 @@ Hi, I'm Nando I'm a Fullstack developer but my passion is the front end
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/nandordgzz/nandordgzz/blob/master/cover_image.jpg)</sub>
+(https://github.com/nandordgzz/nandordgzz/blob/master/cover_image.jpg)</sub>
